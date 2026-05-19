@@ -1,0 +1,1 @@
+Upload these files to GitHub: index.html, style.css, README.txt. Then import the repo into Vercel. No build settings needed.
